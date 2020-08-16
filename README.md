@@ -4,6 +4,7 @@ Work from Andrew NG online class
 Folder files contain class content:
 
 TOC:
+
 Excercise 1: Cost function computation and gradient descent for linear regression
 
 Excercise 2: Cost function computation and gradient descent for logistic regression
